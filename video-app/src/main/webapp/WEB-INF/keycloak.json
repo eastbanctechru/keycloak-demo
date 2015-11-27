@@ -1,0 +1,10 @@
+{
+  "realm": "videomanager",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0POb7nkx14LVMP/fi00TxBUHrx8JCpBGvnnEWlJJjdzRgHTUVe+narRPMUxvCupupg2wzb+8cxV+2nR4uX+wejqQIRBAzYxWv7InEsOOgA0mbsPTczmuqe7sZJdgiWF4UyI4k/fxpx5eY1YusdYuLxVxbuoX4C6biH63Z8yCd3/l6OVi6+XBSKrvTI0sWoA0OTq0sIy3/ZCnzobDluiyPPiFkk6oOrP+o//CsEDFT662HfHjAHglila8ZdAFYrRINQTRl/+xnqUyfUfyHl5eerbyYHoJPJr77yZVNi5QL9rH02BRI5/B/D+EVjM10hixq5eHXdAL+RvPI2aZ0+uvUwIDAQAB",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "video-app",
+  "credentials": {
+    "secret": "a8db46be-6c22-4537-906c-ee434e8e68af"
+  }
+}
