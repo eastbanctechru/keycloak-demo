@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * REST сервис.
  *
- * @author East Banc Technologies (http://eastbanctech.ru/)
+ * @author EastBanc Technologies (http://eastbanctech.ru/)
  */
 @Path("/")
 @Produces("application/json")

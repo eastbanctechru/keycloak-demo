@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * Сервлет показывает список видео, используя в качестве данных внутренний сервис.
  *
- * @author East Banc Technologies (http://eastbanctech.ru/)
+ * @author EastBanc Technologies (http://eastbanctech.ru/)
  */
 @WebServlet("/video-list-servlet")
 @DeclareRoles("video-app-user")

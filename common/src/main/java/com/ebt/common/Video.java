@@ -3,7 +3,7 @@ package com.ebt.common;
 /**
  * Интерфейс объектов видео.
  *
- * @author East Banc Technologies (http://eastbanctech.ru/)
+ * @author EastBanc Technologies (http://eastbanctech.ru/)
  */
 public interface Video {
 

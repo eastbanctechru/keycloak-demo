@@ -6,7 +6,7 @@ import com.ebt.common.VideoCategory;
 /**
  * Объект видео.
  *
- * @author East Banc Technologies (http://eastbanctech.ru/)
+ * @author EastBanc Technologies (http://eastbanctech.ru/)
  */
 public class VideoImpl implements Video {
 

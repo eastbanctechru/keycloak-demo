@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * Сервис для управления объектами Видео.
  *
- * @author East Banc Technologies (http://eastbanctech.ru/)
+ * @author EastBanc Technologies (http://eastbanctech.ru/)
  */
 public class VideoService {
 
